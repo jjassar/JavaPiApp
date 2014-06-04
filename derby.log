@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat May 10 16:30:25 IST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0145-e5ca-8388-0000012f2d78 
+on database directory /home/pi/Java/jes7.0/samples/hellostorage/hello  with class loader sun.misc.Launcher$AppClassLoader@15e565bd 
+Loaded from file:/home/pi/Java/jes7.0/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_55-b13
+user.dir=/home/pi/Java/jes7.0/samples/hellostorage
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat May 10 16:30:26 IST 2014:
+Shutting down instance a816c00e-0145-e5ca-8388-0000012f2d78 on database directory /home/pi/Java/jes7.0/samples/hellostorage/hello with class loader sun.misc.Launcher$AppClassLoader@15e565bd 
